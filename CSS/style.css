@@ -1,7 +1,21 @@
-body {
-    background-color: lightblue;
+* {
+  font-family: 'Roboto', sans-serif;
 }
 
-h1 {
-    color: darkred;
+.menu {
+  background-color: #002642;
+}
+
+.menu ul {
+  list-style-type: none;
+  padding: 15px;
+}
+
+.menu li {
+  display: inline;
+  padding: 10px; 
+}
+
+.menu a {
+    color: #E5DADA;
 }
