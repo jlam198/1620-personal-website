@@ -4,6 +4,8 @@
 
 .menu {
   background-color: #002642;
+  position: top;
+  top: 0;
 }
 
 .menu ul {
@@ -17,5 +19,11 @@
 }
 
 .menu a {
-    color: #E5DADA;
+  color: #E5DADA;
+}
+
+.float_img {
+  height: 200px;
+  float: left;
+  margin-right: 15px;
 }
